@@ -2,7 +2,7 @@
 
 ### About Me:
 
-I am a Software Engineer with a background in Account Management for large events. I have experience managing multiple projects and teams which require self-discipline and attention to detail. It is my goal to be in a role when I can broaden my skills as a developer while enhancing applications that create a smooth and lasting experience for the user.
+I am a Software Engineer in the San Francisco Bay Area with a background in Account Management for trade shows and large events.I have experience managing multiple projects and teams which requires self-discipline and great attention to detail. It is my goal to be in a position where I can broaden my skills as a software developer while ensuring that users of applications I have worked on have a smooth and enjoyable experience.
 
 ### Technologies that I use:
 
