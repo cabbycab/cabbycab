@@ -11,4 +11,5 @@ HTML5 | CSS3 | JavaScript | jQuery | Node.js | Express.js | React.js | MongoDB |
 ### Contact:
 
 - You can reach me at dkoski426@gmail.com
-- Connect with me on LinkedIn: https://www.linkedin.com/in/danielle-koski/
+- Connect with me on LinkedIn: [My Profile](https://www.linkedin.com/in/danielle-koski/)
+- Check out my Portfolio here: https://www.daniellekoski.dev/
